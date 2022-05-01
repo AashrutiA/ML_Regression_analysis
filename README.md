@@ -1,1 +1,14 @@
-# ML_Regression_analysis
+# Seoul Rental Bike Sharing Demand Preiction
+Rental Bike are slowly getting its acclaim in the urban cities for better mobility comfort to the public. In order to maintain the smooth operation, availability and accessibility of the rental bike with lesser waiting time period is the most crucial concern. Thus, it is very necessary to understand the features driving the demand of rental bikes in order to fulfill the demand. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes. 
+
+## Problem Description
+Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes .
+
+## Approach
+We have come up with following approach to solve the problem statement:
+1.	Firstly, we will deep dive into the dataset after loading it to understand each of  the features. After carefully inspecting the features, we framed out hypothesis  for EDA such as most active hours, season, month, weekday for rented bike and many more to understand the patterns and relation between different variables.
+2.	Data Preprocessing & feature engineering of the dataset involving removing duplicates, identifying and handling missing values, outliers, dropping the irrelevant columns to make our dataset more reliable.
+3.	Analyzing and Visualization of the dataset utilizing relevant plots and charts and infer the insights out of that.
+4.	Model Building involving implementation of different regression machine learning algorithms like linear regression, tree based regression models to build the model followed by training the dataset and predict the test result.
+5.	Comparison of all models based on r2 score and find the best performing model to predict the rental bike sharing demand.
+
