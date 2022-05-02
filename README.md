@@ -1,4 +1,4 @@
-# Seoul Rental Bike Sharing Demand Preiction
+# Seoul Rental Bike Sharing Demand Prediction
 <p align ='justify'> Rental Bike are slowly getting its acclaim in the urban cities for better mobility comfort to the public. In order to maintain the smooth operation, availability and accessibility of the rental bike with lesser waiting time period is the most crucial concern. Thus, it is very necessary to understand the features driving the demand of rental bikes in order to fulfill the demand. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.</p>
 
 ## Problem Description
