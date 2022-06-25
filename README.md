@@ -1,9 +1,7 @@
 # <p align ="center"> Seoul Rental Bike Sharing Demand Prediction </p>
 
-<center> <img src="https://user-images.githubusercontent.com/101988419/175787994-c2437d5e-8ff9-4a04-b118-49c49e369b34.gif"
-     class="center"
-     width="1000"
-     height="300" </center>
+<p align ="center"> <img src="https://user-images.githubusercontent.com/101988419/175788349-52ad2013-ca3e-492d-9fdd-d20bbaef6593.png"     </p>
+
 
 
 <p align ='justify'> Rental Bike are slowly getting its acclaim in the urban cities for better mobility comfort to the public. In order to maintain the smooth operation, availability and accessibility of the rental bike with lesser waiting time period is the most crucial concern. Thus, it is very necessary to understand the features driving the demand of rental bikes in order to fulfill the demand. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.</p>
@@ -20,11 +18,11 @@
 5.	Comparison of all models based on r2 score and find the best performing model to predict the rental bike sharing demand.
   
  ## 3. Result
-  ![image](https://user-images.githubusercontent.com/101988419/175788158-0b021620-2e4f-457d-9bbf-b6b20f78d445.png)
   
+<p align ="center"> <img src = "https://user-images.githubusercontent.com/101988419/175788158-0b021620-2e4f-457d-9bbf-b6b20f78d445.png" </p>
   
   
 ## 4. Conclusion
- <p align ='justify'>Almost all algorithms performed really well on both training dataset and testing dataset so we can say that variance is less and no issues of overfitting are present. Both "Random forest regression" and "Gradient Boosting regression(GridSearch cv) has highest R2 score of 98.8% and 94% respectively. Performance on "Decision Tree" algorithm is comparatively less with an R2 score of 68%. </p>
+ <p align ='justify'>Almost all algorithms performed really well on both training dataset and testing dataset so we can say that variance is less and no issues of overfitting are present. Both "Random forest regression" and "Gradient Boosting regression(GridSearch CV) has highest R2 score of 98.8% and 94% respectively. Performance on "Decision Tree" algorithm is comparatively less with an R2 score of 68%. </p>
 
 
